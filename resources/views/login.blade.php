@@ -33,6 +33,7 @@
     color: white;
     text-transform: uppercase;
     font-size: 14pt;
+    width: 100%;
   }
 </style>
 
